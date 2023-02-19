@@ -45,7 +45,7 @@
                         <Label
                             x:Name="lblHex"
                             HorizontalOptions="End"
-                            Text="xxxxxxxxxxxx"
+                            Text="???????"
                             VerticalOptions="Center"/>
                         <ImageButton 
                             Source="copy.svg" 
